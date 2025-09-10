@@ -39,6 +39,18 @@
 </p>
 
 <h2>
+  <strong>Treasure Island</strong> · <em>July 2021 - August 2021</em> · 
+  <a href="https://officialthomas.github.io/Treasure-Island/">Play on Github Pages</a> ·
+  <a href="https://github.com/OfficialThomas/Treasure-Island">GitHub Repo</a> 
+</h2>
+
+> - Roles: Programmer, Designer
+
+<p align="center">
+  <img src="Character_Punch_Stage_Fright.png" alt="Stage Fright Sprite" width="100">
+</p>
+
+<h2>
   <strong>Stage Fright</strong> · <em>June 2021 - July 2021</em> · 
   <a href="https://officialthomas.github.io/Stage-Fright/">Play on Github Pages</a> ·
   <a href="https://github.com/OfficialThomas/Stage-Fright?tab=readme-ov-file">GitHub Repo</a> 
