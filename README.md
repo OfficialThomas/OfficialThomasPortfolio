@@ -1,8 +1,6 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
 
-<h2><strong>Bouncy Bear</strong> · <em>March 2023 to June 2023</em> · <a href="https://officialthomas.itch.io/bouncybear">Itch.io</a></h2>
-
-<h2><strong>Bouncy Bear</strong> · <em>March 2023 to June 2023</em></h2>
+<h2><strong>Bouncy Bear</strong> · <em>March 2023 to June 2023</em> · <a href="https://officialthomas.itch.io/bouncybear">Play on Itch.io</a></h2>
 
 **[Play on Itch.io](https://officialthomas.itch.io/bouncybear)** 
 
