@@ -39,7 +39,7 @@
 </p>
 
 <h2>
-  <strong>Treasure Island</strong> · <em>July 2021 - August 2021</em> · 
+  <strong>Treasure Island</strong> · <em>July 2021 - Aug 2021</em> · 
   <a href="https://officialthomas.github.io/Treasure-Island/">Play on Github Pages</a> ·
   <a href="https://github.com/OfficialThomas/Treasure-Island">GitHub Repo</a> 
 </h2>
