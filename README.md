@@ -47,7 +47,7 @@
 > - Roles: Programmer, Designer
 
 <p align="center">
-  <img src="PlayerIdle-bird_treasureIsland.png" alt="Treasure Island Sprite" height="100">
+  <img src="PlayerIdle-bird_treasureIsland.png" alt="Treasure Island Sprite" height="200">
 </p>
 
 <h2>
