@@ -8,7 +8,9 @@
 
 > - Roles: Creator
 
-![Bouncy Bear Sprite](BouncyBearFront1.png)
+<p align="center">
+  <img src="BouncyBearFront1.png" alt="Bouncy Bear Sprite" width="100">
+</p>
 
 <h2>
   <strong>RoadTown</strong> · <em>January 2023 - March 2023</em> · 
