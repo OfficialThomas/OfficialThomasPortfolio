@@ -19,7 +19,7 @@
 > - Roles: Programmer, Co-Designer, Producer
 
 <p align="center">
-  <img src="roadtownplayer2_idle.png" alt="Player Sprite Roadtown" width="200">
+  <img src="roadtownplayer2_idle.png" alt="Player Sprite Roadtown" width="100">
 </p>
 
 
