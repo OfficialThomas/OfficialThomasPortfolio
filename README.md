@@ -4,5 +4,7 @@
 
 [Play it on Itch.io](https://officialthomas.itch.io/bouncybear)
 
+[Check out the GitHub Repo here!](https://officialthomas.itch.io/bouncybear)
+
 > - Planned the 9-week production cycle for a game demo, reaching all objectives on time. 
 > - Showcased the demo at a public event, attracting 60+ individuals to play live.
