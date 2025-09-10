@@ -38,4 +38,14 @@
   <img src="HappyHunting_Kiss_Circle.png" alt="Happy Hunting Kiss Sprite" width="100">
 </p>
 
+<h2>
+  <strong>Stage Fright</strong> · <em>June 2021 - July 2021</em> · 
+  <a href="https://officialthomas.github.io/Stage-Fright/">Play on Github Pages</a> ·
+  <a href="https://github.com/OfficialThomas/Stage-Fright?tab=readme-ov-file">GitHub Repo</a> 
+</h2>
 
+> - Roles: Programmer, Designer
+
+<p align="center">
+  <img src="HappyHunting_Kiss_Circle.png" alt="Happy Hunting Kiss Sprite" width="100">
+</p>
