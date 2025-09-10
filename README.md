@@ -6,8 +6,7 @@
   <a href="https://github.com/OfficialThomas/Bouncy-Bear-Game">GitHub Repo</a>
 </h2>
 
-> - Planned the 9-week production cycle for a game demo, reaching all objectives on time. 
-> - Showcased the demo at a public event, attracting 60+ individuals to play live.
+> - Roles: Creator
 
 <h2>
   <strong>RoadTown</strong> · <em>January 2023 - March 2023</em> · 
