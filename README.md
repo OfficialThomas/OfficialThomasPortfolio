@@ -20,7 +20,7 @@
   <strong>Happy Hunting</strong> · <em>September 2021</em> · 
   <a href="https://jonahrobot.itch.io/happyhunting">Play on Itch.io</a> ·
   <a href="https://github.com/OfficialThomas/HappyHunting">GitHub Repo</a> · 
-  <a href="https://itch.io/jam/microgame-jam-2021">Full Game Jam</a>
+  <a href="https://itch.io/jam/microgame-jam-2021">Game Jam</a>
 </h2>
 
 > - Roles: Programmer, Designer
