@@ -1,7 +1,7 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
 <h2>Bouncy Bear</h2> 
 
-<h1>Main Title <span style="font-size: 50%; font-weight: normal;">Subtext</span></h1>
+<h1>Main Title <span style="font-size: 50%; font-weight: normal; align="right";">Subtext</span></h1>
 
 
 > - Planned the 9-week production cycle for a game demo, reaching all objectives on time. 
