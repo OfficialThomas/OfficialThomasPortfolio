@@ -34,8 +34,8 @@
 
 > - Roles: Programmer, Designer
 
-![Happy Hunting Kiss Sprite](HappyHunting_Kiss_Circle.png)
-
-
+<p align="center">
+  <img src="HappyHunting_Kiss_Circle.png" alt="Happy Hunting Kiss Sprite" width="100">
+</p>
 
 
