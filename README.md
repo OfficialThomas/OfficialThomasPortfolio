@@ -8,6 +8,8 @@
 
 > - Roles: Creator
 
+![Bouncy Bear Sprite](BouncyBearFront1.png)
+
 <h2>
   <strong>RoadTown</strong> · <em>January 2023 - March 2023</em> · 
   <a href="https://officialthomas.itch.io/roadtown-usa">Play on Itch.io</a> ·
@@ -15,6 +17,8 @@
 </h2>
 
 > - Roles: Programmer, Co-Designer, Producer
+
+![Player Sprite Roadtown](roadtownplayer2_idle.png)
 
 <h2>
   <strong>Happy Hunting</strong> · <em>September 2021</em> · 
@@ -24,6 +28,8 @@
 </h2>
 
 > - Roles: Programmer, Designer
+
+![Happy Hunting Kiss Sprite](HappyHunting_Kiss_Circle.png)
 
 
 
