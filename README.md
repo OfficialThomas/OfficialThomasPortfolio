@@ -2,7 +2,7 @@
 
 <h2><strong>Bouncy Bear</strong> · <em>March 2023 to June 2023</em></h2>
 
-**[Play my game here!](https://officialthomas.itch.io/bouncybear)** 
+**[Play on Itch.io](https://officialthomas.itch.io/bouncybear)** 
 
 [Github Repo](https://officialthomas.itch.io/bouncybear)
 
