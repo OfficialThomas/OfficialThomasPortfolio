@@ -1,9 +1,6 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
 
-<h2>**Bouncy Bear** · _September 2025_</h2> 
-
-
-<h2>My Project Name · <em>September 2025</em></h2>
+<h2>Bouncy Bear · <em>March 2023 to June 2023</em></h2>
 
 > - Planned the 9-week production cycle for a game demo, reaching all objectives on time. 
 > - Showcased the demo at a public event, attracting 60+ individuals to play live.
