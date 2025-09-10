@@ -18,7 +18,10 @@
 
 > - Roles: Programmer, Co-Designer, Producer
 
-![Player Sprite Roadtown](roadtownplayer2_idle.png)
+<p align="center">
+  <img src="roadtownplayer2_idle.png" alt="Player Sprite Roadtown" width="200">
+</p>
+
 
 <h2>
   <strong>Happy Hunting</strong> · <em>September 2021</em> · 
