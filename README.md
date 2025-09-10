@@ -1,5 +1,11 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
 
+<h2>
+  <strong>RoadTown</strong> · <em>September 2021</em> · 
+  <a href="https://officialthomas.itch.io/bouncybear">Play on Itch.io</a> ·
+  <a href="https://github.com/OfficialThomas/Bouncy-Bear-Game">GitHub Repo</a>
+</h2>
+
 <h2><strong>Bouncy Bear</strong> · <em>March 2023 to June 2023</em> · <a href="https://officialthomas.itch.io/bouncybear">Play on Itch.io</a></h2>
 
 [Github Repo](https://github.com/OfficialThomas/Bouncy-Bear-Game)
