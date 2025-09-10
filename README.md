@@ -47,5 +47,5 @@
 > - Roles: Programmer, Designer
 
 <p align="center">
-  <img src="HappyHunting_Kiss_Circle.png" alt="Happy Hunting Kiss Sprite" width="100">
+  <img src="Character_Punch_Stage_Fright.png" alt="Stage Fright Sprite" width="100">
 </p>
