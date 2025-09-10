@@ -47,7 +47,7 @@
 > - Roles: Programmer, Designer
 
 <p align="center">
-  <img src="Character_Punch_Stage_Fright.png" alt="Stage Fright Sprite" width="100">
+  <img src="PlayerIdle-bird_treasureIsland.png" alt="Treasure Island Sprite" width="100">
 </p>
 
 <h2>
