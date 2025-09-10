@@ -15,8 +15,7 @@
   <a href="https://github.com/OfficialThomas/CMPM-171-GROUP-20">GitHub Repo</a>
 </h2>
 
-> - Planned the 9-week production cycle for a game demo, reaching all objectives on time. 
-> - Showcased the demo at a public event, attracting 60+ individuals to play live.
+> - Roles: Programmer, Co-Designer, Producer
 
 <h2>
   <strong>Happy Hunting</strong> · <em>September 2021</em> · 
@@ -25,8 +24,7 @@
   <a href="https://itch.io/jam/microgame-jam-2021">Full Game Jam</a>
 </h2>
 
-> - Planned the 9-week production cycle for a game demo, reaching all objectives on time. 
-> - Showcased the demo at a public event, attracting 60+ individuals to play live.
+> - Roles: Programmer, Designer
 
 
 
