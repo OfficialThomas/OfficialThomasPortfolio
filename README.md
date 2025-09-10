@@ -8,7 +8,7 @@
 > - Showcased the demo at a public event, attracting 60+ individuals to play live.
 
 <h2>
-  <strong>>RoadTown</strong> · <em>September 2021</em> · 
+  <strong>RoadTown</strong> · <em>September 2021</em> · 
   <a href="https://officialthomas.itch.io/roadtown-usa">Play on Itch.io</a> ·
   <a href="https://github.com/OfficialThomas/CMPM-171-GROUP-20">GitHub Repo</a>
 </h2>
