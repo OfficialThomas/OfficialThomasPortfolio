@@ -1,7 +1,6 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
-<h2>Bouncy Bear</h2> 
 
-**My Project Name** · _September 2025_
+<h2>**Bouncy Bear** · _September 2025_</h2> 
 
 
 > - Planned the 9-week production cycle for a game demo, reaching all objectives on time. 
