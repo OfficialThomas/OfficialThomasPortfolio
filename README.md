@@ -2,8 +2,6 @@
 
 <h2><strong>Bouncy Bear</strong> · <em>March 2023 to June 2023</em> · <a href="https://officialthomas.itch.io/bouncybear">Play on Itch.io</a></h2>
 
-**[Play on Itch.io](https://officialthomas.itch.io/bouncybear)** 
-
 [Github Repo](https://officialthomas.itch.io/bouncybear)
 
 > - Planned the 9-week production cycle for a game demo, reaching all objectives on time. 
