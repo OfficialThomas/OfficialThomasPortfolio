@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  <img src="Projects_Images/Bard_Posed.png" alt="Happy Hunting Kiss Sprite" height="300">
+  <img src="Projects_Images/SeigeTank_Rendered.png" alt="Happy Hunting Kiss Sprite" height="300">
 </p>
 
 <h2>
