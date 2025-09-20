@@ -9,7 +9,7 @@
 > - Roles: Creator
 
 <p align="center">
-  <img src="Projects_Images\bouncybearscene2" alt="Bouncy Bear Sprite" height="100">
+  <img src="Projects_Images/bouncybearscene2.png" alt="Bouncy Bear Sprite" height="100">
 </p>
 
 <h2>
