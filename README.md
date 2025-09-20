@@ -1,5 +1,15 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
 
+
+<h2>
+  <strong>ZBrush; Seige Tank Fan Model</strong> · <em>July 2023 - September 2023</em> · 
+  <a href="https://github.com/OfficialThomas/ZbrushBardLoL">GitHub Repo</a>
+</h2>
+
+<p align="center">
+  <img src="Projects_Images/Bard_Posed.png" alt="Happy Hunting Kiss Sprite" height="300">
+</p>
+
 <h2>
   <strong>ZBrush; Bard Fan Model</strong> · <em>July 2023 - September 2023</em> · 
   <a href="https://github.com/OfficialThomas/ZbrushBardLoL">GitHub Repo</a>
