@@ -9,7 +9,7 @@
 > - Roles: Creator
 
 <p align="center">
-  <img src="BouncyBearFront1.png" alt="Bouncy Bear Sprite" width="100">
+  <img src="Projects_Images\bouncybearscene2" alt="Bouncy Bear Sprite" height="100">
 </p>
 
 <h2>
@@ -21,7 +21,7 @@
 > - Roles: Programmer, Co-Designer, Producer
 
 <p align="center">
-  <img src="roadtownplayer2_idle.png" alt="Player Sprite Roadtown" width="100">
+  <img src="Projects_Images\roadtownlogo" alt="Player Sprite Roadtown" height="100">
 </p>
 
 
@@ -35,7 +35,7 @@
 > - Roles: Programmer, Designer
 
 <p align="center">
-  <img src="HappyHunting_Kiss_Circle.png" alt="Happy Hunting Kiss Sprite" width="100">
+  <img src="Projects_Images\IArvDQ" alt="Happy Hunting Kiss Sprite" width="100">
 </p>
 
 <h2>
@@ -47,7 +47,7 @@
 > - Roles: Programmer, Designer
 
 <p align="center">
-  <img src="PlayerIdle-bird_treasureIsland.png" alt="Treasure Island Sprite" height="200">
+  <img src="Projects_Images\treasureIslandtitle" alt="Treasure Island Sprite" height="200">
 </p>
 
 <h2>
@@ -59,5 +59,5 @@
 > - Roles: Programmer, Designer
 
 <p align="center">
-  <img src="Character_Punch_Stage_Fright.png" alt="Stage Fright Sprite" width="100">
+  <img src="Projects_Images\stagefrighttitlescreen" alt="Stage Fright Sprite" Height="100">
 </p>
