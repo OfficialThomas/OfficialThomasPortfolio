@@ -1,7 +1,7 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
 
 <h2>
-  <strong>ZBrush - Bard from "League of Legends" - Fan Model</strong> · <em>July 2023 - September 2023</em> · 
+  <strong>ZBrush - Bard - Fan Model</strong> · <em>July 2023 - September 2023</em> · 
   <a href="https://github.com/OfficialThomas/MayaScifiScene">GitHub Repo</a>
 </h2>
 
