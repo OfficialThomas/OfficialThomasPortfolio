@@ -24,6 +24,14 @@
   <img src="Projects_Images/roadtownlogo.png" alt="Player Sprite Roadtown" height="300">
 </p>
 
+<h2>
+  <strong>Maya - "Sci-fi" Furniture Scene</strong> · <em>June 2022 - August 2022</em> · 
+  <a href="https://github.com/OfficialThomas/HappyHunting">GitHub Repo</a> · 
+</h2>
+
+<p align="center">
+  <img src="Projects_Images/render_011.jpg" alt="Happy Hunting Kiss Sprite" height="300">
+</p>
 
 <h2>
   <strong>Happy Hunting</strong> · <em>September 2021</em> · 
