@@ -3,7 +3,7 @@
 
 <h2>
   <strong>Seige Tank Fan Model</strong> · <em>July 2023 - September 2023</em> · 
-  <a href="https://github.com/OfficialThomas/ZbrushBardLoL">GitHub Repo</a>
+  <a href="https://github.com/OfficialThomas/ZBrushSeigeTankFan">GitHub Repo</a>
 </h2>
 
 <p align="center">
