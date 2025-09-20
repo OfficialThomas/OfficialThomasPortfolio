@@ -2,7 +2,7 @@
 
 <h2>
   <strong>ZBrush; Bard Fan Model</strong> · <em>July 2023 - September 2023</em> · 
-  <a href="https://github.com/OfficialThomas/MayaScifiScene">GitHub Repo</a>
+  <a href="https://github.com/OfficialThomas/ZbrushBardLoL">GitHub Repo</a>
 </h2>
 
 <p align="center">
