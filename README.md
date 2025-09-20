@@ -1,6 +1,15 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
 
 <h2>
+  <strong>ZBrush - Bard from "League of Legends" - Fan Model</strong> · <em>July 2023 - September 2023</em> · 
+  <a href="https://github.com/OfficialThomas/MayaScifiScene">GitHub Repo</a>
+</h2>
+
+<p align="center">
+  <img src="Projects_Images/render_011.jpg" alt="Happy Hunting Kiss Sprite" height="300">
+</p>
+
+<h2>
   <strong>Bouncy Bear</strong> · <em>March 2023 - June 2023</em> · 
   <a href="https://officialthomas.itch.io/bouncybear">Play on Itch.io</a> ·
   <a href="https://github.com/OfficialThomas/Bouncy-Bear-Game">GitHub Repo</a>
@@ -25,7 +34,7 @@
 </p>
 
 <h2>
-  <strong>Maya - "Sci-fi" Furniture Scene</strong> · <em>June 2022 - August 2022</em> · 
+  <strong>Maya - "Sci-fi" Furniture Scene</strong> · <em>July 2022 - September 2022</em> · 
   <a href="https://github.com/OfficialThomas/MayaScifiScene">GitHub Repo</a>
 </h2>
 
