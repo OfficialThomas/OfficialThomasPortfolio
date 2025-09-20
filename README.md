@@ -26,7 +26,7 @@
 
 <h2>
   <strong>Maya - "Sci-fi" Furniture Scene</strong> · <em>June 2022 - August 2022</em> · 
-  <a href="https://github.com/OfficialThomas/HappyHunting">GitHub Repo</a>
+  <a href="https://github.com/OfficialThomas/MayaScifiScene">GitHub Repo</a>
 </h2>
 
 <p align="center">
