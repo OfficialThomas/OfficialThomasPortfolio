@@ -2,7 +2,7 @@
 
 
 <h2>
-  <strong>ZBrush; Seige Tank Fan Model</strong> · <em>July 2023 - September 2023</em> · 
+  <strong>Seige Tank Fan Model</strong> · <em>July 2023 - September 2023</em> · 
   <a href="https://github.com/OfficialThomas/ZbrushBardLoL">GitHub Repo</a>
 </h2>
 
@@ -11,7 +11,7 @@
 </p>
 
 <h2>
-  <strong>ZBrush; Bard Fan Model</strong> · <em>July 2023 - September 2023</em> · 
+  <strong>Bard Fan Model</strong> · <em>July 2023 - September 2023</em> · 
   <a href="https://github.com/OfficialThomas/ZbrushBardLoL">GitHub Repo</a>
 </h2>
 
@@ -44,7 +44,7 @@
 </p>
 
 <h2>
-  <strong>Maya; "Sci-fi" Furniture Scene</strong> · <em>July 2022 - September 2022</em> · 
+  <strong>"Sci-fi" Furniture Scene</strong> · <em>July 2022 - September 2022</em> · 
   <a href="https://github.com/OfficialThomas/MayaScifiScene">GitHub Repo</a>
 </h2>
 
