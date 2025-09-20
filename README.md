@@ -1,7 +1,7 @@
 <h1 align="center">Thomas Noell's Projects!</h1>
 
 <h2>
-  <strong>ZBrush - Bard - Fan Model</strong> · <em>July 2023 - September 2023</em> · 
+  <strong>ZBrush; Bard Fan Model</strong> · <em>July 2023 - September 2023</em> · 
   <a href="https://github.com/OfficialThomas/MayaScifiScene">GitHub Repo</a>
 </h2>
 
@@ -34,7 +34,7 @@
 </p>
 
 <h2>
-  <strong>Maya - "Sci-fi" Furniture Scene</strong> · <em>July 2022 - September 2022</em> · 
+  <strong>Maya; "Sci-fi" Furniture Scene</strong> · <em>July 2022 - September 2022</em> · 
   <a href="https://github.com/OfficialThomas/MayaScifiScene">GitHub Repo</a>
 </h2>
 
